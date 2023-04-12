@@ -13,7 +13,7 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/RizwanMunawar/yolov7-object-tracking.git
+gh repo clone notahuman-1-0/Object-Tracking-yolo-v7
 ```
 - Goto the cloned folder.
 ```
